@@ -151,11 +151,14 @@ ul#nav {
 
    /* center align the menu */
    text-align: center;
+   /* move navbar to left */
    position: fixed;
    left: 0;
    right: auto;
    display: flex;
    flex-direction: column;
+   width: 250px;
+
 }
 ul#nav li {
    position: relative;
