@@ -2,17 +2,17 @@
   "main": {
     "name": "Justin Chow",
     "occupation": "Software Developer",
-    "description": "Top-Rated and Popular MMMORPG Final Fantasy 14, now Free-To-Play up to Level 60, which includes critically-acclaimened first expansion Heavensward",
+    "description": "Top-Rated and Popular MMMORPG Final Fantasy 14, now Free-To-Play up to Level 60, which includes critically-acclaimed first expansion Heavensward",
     "image": "profilepic.jpg",
     "bio": "im poor",
     "contactmessage": "contacts here",
     "email": "hrll71990@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "not my number",
     "address": {
-      "street": "(Your Street)",
+      "street": "",
       "city": "Seattle",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state": "WA",
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
