@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Based off a ReactJS template found here: https://github.com/tbakerx/react-resume-template
+Based on a ReactJS template found here: https://github.com/tbakerx/react-resume-template
 
 ---
 
