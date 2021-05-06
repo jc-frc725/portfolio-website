@@ -33,30 +33,30 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Hack Reactor",
+        "degree": "Advanced Software Engineering Immersive",
+        "graduated": "2021",
+        "description": ""
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Washington",
+        "degree": "B.S. General Biology",
+        "graduated": "2020",
+        "description": "Coursework: Intro to Computer Programming (Java) Research Participant | Dean's List 2019"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "University of Washington (C21)",
+        "title": "Project Management Intern",
+        "years": "2020",
+        "description": "Assisted with brainstorming and drafting a solution to address low enrollment numbers for UW’s Early Fall Start program."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Albertsons Companies",
+        "title": "Pharmacy Technician",
+        "years": "2017 - 2020",
+        "description": "Assisted patients and pharmacists with distribution of prescriptions, insurance policies, pharmacy resources."
       }
     ],
     "skills": [
