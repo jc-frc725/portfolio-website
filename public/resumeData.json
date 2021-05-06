@@ -93,34 +93,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "BlutoBot",
+        "category": "A web-scraping Discord bot for fetching stock prices.",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://github.com/jc-frc725/blutobot"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "Pep-talker",
+        "category": "Text-to-speech web application backed by RESTful API and IBM Cloud.",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://github.com/jc-frc725/pep-talker"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "System Design Rework",
+        "category": "Redesigned the back end for a property rental website.",
         "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "url": "https://github.com/jc-frc725/tripsters_bookings"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
+        "title": "Understock.com",
+        "category": "Built a React-based front end component for a furniture retailer.",
         "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://github.com/jc-frc725/understock_carousel"
       }
     ]
   }
