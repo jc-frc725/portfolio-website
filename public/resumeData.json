@@ -10,7 +10,7 @@
     "phone": "not my number",
     "address": {
       "street": "",
-      "city": "Seattle",
+      "city": "Seattle,",
       "state": "WA",
       "zip": ""
     },
