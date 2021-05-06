@@ -58,36 +58,6 @@
         "years": "2017 - 2020",
         "description": "Assisted patients and pharmacists with distribution of prescriptions, insurance policies, pharmacy resources."
       }
-    ],
-    "skills": [
-      {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
-      }
     ]
   },
   "portfolio": {
