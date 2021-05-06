@@ -4,10 +4,10 @@
     "occupation": "Software Developer",
     "description": "Top-Rated and Popular MMMORPG Final Fantasy 14, now Free-To-Play up to Level 60, which includes critically-acclaimed first expansion Heavensward",
     "image": "profilepic.jpg",
-    "bio": "im poor",
+    "bio": "description",
     "contactmessage": "contacts here",
     "email": "hrll71990@gmail.com",
-    "phone": "not my number",
+    "phone": "",
     "address": {
       "street": "",
       "city": "Seattle,",
@@ -65,25 +65,25 @@
       {
         "title": "BlutoBot",
         "category": "A web-scraping Discord bot for fetching stock prices.",
-        "image": "canadian-wanderlust.jpg",
+        "image": "project-placeholder.png",
         "url": "https://github.com/jc-frc725/blutobot"
       },
       {
         "title": "Pep-talker",
         "category": "Text-to-speech web application backed by RESTful API and IBM Cloud.",
-        "image": "fury-fighting-gear.jpg",
+        "image": "project-placeholder.png",
         "url": "https://github.com/jc-frc725/pep-talker"
       },
       {
         "title": "System Design Rework",
         "category": "Redesigned the back end for a property rental website.",
-        "image": "original-thai-food.jpg",
+        "image": "project-placeholder.png",
         "url": "https://github.com/jc-frc725/tripsters_bookings"
       },
       {
         "title": "Understock.com",
         "category": "Built a React-based front end component for a furniture retailer.",
-        "image": "resume-website.jpg",
+        "image": "project-placeholder.png",
         "url": "https://github.com/jc-frc725/understock_carousel"
       }
     ]
