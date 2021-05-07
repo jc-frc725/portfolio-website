@@ -48,7 +48,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Navigation />
+        <Navigation data={this.state.resumeData.main}/>
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
