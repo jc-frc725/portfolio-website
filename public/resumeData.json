@@ -26,6 +26,11 @@
         "name": "github",
         "url": "https://github.com/jc-frc725",
         "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "hrll71990@gmail.com",
+        "className": "fa fa-envelope"
       }
     ]
   },

@@ -14,6 +14,13 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var networks= this.props.data.social.map(function(network){
+         let link = <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+         if (network.url === "hrll71990@gmail.com") {
+            link = <li key={network.name}><a href={"mailto:hrll71990@gmail.com"}>{link.name}<i className={network.className}></i></a></li>
+         }
+         return link;
+      })
     }
 
     return (
@@ -23,17 +30,12 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Justin Chow Profile" />
          </div>
          <div className="nine columns main-col">
-            <h2>About Me</h2>
-
-            <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state} {zip}
-                   </span><br />
+						   
+                     {networks}
 						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
