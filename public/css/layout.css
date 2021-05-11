@@ -50,7 +50,7 @@ header:before {
 header .banner {
    display: inline-block;
    vertical-align: middle;
-   margin: 0 auto;
+   margin: 0 0 0 140px;
    width: 85%;
    padding-bottom: 30px;
    text-align: center;
@@ -204,6 +204,7 @@ ul#nav li.current a { background-color: rgb(24, 172, 115);}
    background: #2B2B2B;
    padding-top: 20px;
    padding-bottom: 20px;
+   padding-left: 150px;
    overflow: hidden;
    display: flex;
    justify-content: center;

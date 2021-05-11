@@ -1,10 +1,17 @@
 .App {
   display: flex;
   flex-direction: column;
+  margin-left: 50px;
 }
 
+/*
 #home, #about, #portfolio, #resume, #contact {
-  padding-left: 230px;
+  margin-left: 50px;
+}
+*/
+
+.header .banner {
+  margin-left: 100px;
 }
 
 #profile-container {

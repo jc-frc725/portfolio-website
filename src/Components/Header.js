@@ -16,7 +16,7 @@ class Header extends Component {
     return (
       <header id="home">
 
-      <div className="row banner">
+      <div className="header row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
             <h3 className="header-description">I'm a {city} based <span>{occupation}</span>. {description}.</h3>
