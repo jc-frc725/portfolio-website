@@ -23,8 +23,6 @@ class Navigation extends Component {
             <hr className="nav-divider"></hr>
 	            <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <hr className="nav-divider"></hr>
-              <li><a className="smoothscroll" href="#contact">Contact</a></li>
-            <hr className="nav-divider"></hr>
          </ul>
       </nav>
     ) 
