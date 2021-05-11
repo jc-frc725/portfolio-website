@@ -133,7 +133,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 #nav-wrap {
    background-color: #117a52;
    height: 100%;
-   width: 230px;
+   width: 260px;
    font: 12px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -161,7 +161,7 @@ ul#nav {
    right: auto;
    display: flex;
    flex-direction: column;
-   width: 230px;
+   width: inherit;
 }
 ul#nav li {
    position: relative;
@@ -205,6 +205,8 @@ ul#nav li.current a { background-color: rgb(24, 172, 115);}
    padding-top: 20px;
    padding-bottom: 20px;
    overflow: hidden;
+   display: flex;
+   justify-content: center;
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -225,7 +227,10 @@ ul#nav li.current a { background-color: rgb(24, 172, 115);}
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: inherit; }
+#about .contact-details { 
+   width: inherit;
+   text-align: center; 
+}
 #about .download {
    width: 58.33333%;
    padding-top: 6px;

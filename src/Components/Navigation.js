@@ -17,7 +17,7 @@ class Navigation extends Component {
             <hr className="nav-divider"></hr>
               <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <hr className="nav-divider"></hr>
-              <li><a className="smoothscroll" href="#about">About</a></li>
+              <li><a className="smoothscroll" href="#about">Contact</a></li>
             <hr className="nav-divider"></hr>
               <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
             <hr className="nav-divider"></hr>
