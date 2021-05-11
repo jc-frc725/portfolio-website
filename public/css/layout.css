@@ -225,7 +225,7 @@ ul#nav li.current a { background-color: rgb(24, 172, 115);}
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: inherit; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
