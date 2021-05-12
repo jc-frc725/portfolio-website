@@ -8,9 +8,6 @@ class Header extends Component {
       var occupation= this.props.data.occupation;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
-      /*var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      })*/
     }
 
     return (
@@ -19,7 +16,13 @@ class Header extends Component {
       <div className="header row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3 className="header-description">I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+            <h3 className="header-description">
+              Hello and welcome!
+              <br></br> 
+              I'm a {city}-based {occupation} with experience in JavaScript, Node.js, React, SQL, and more. 
+              <br></br>
+              {description}
+            </h3>
             <hr />
             <ul className="social">
             </ul>

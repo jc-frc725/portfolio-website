@@ -2,7 +2,7 @@
   "main": {
     "name": "Justin Chow",
     "occupation": "Software Developer",
-    "description": "Detailed description goes here.",
+    "description": "I was studying to become a pharmacist before discovering a passion for understanding how people interact, use and navigate the technologies we use everyday. Since then, I've been on the long path towards starting a career in tech. Along the way, I've built an appreciation for user experience, programming, and today's ever-growing world of technology. My goal is to not only grow my skills as a developer, but also as a reliable professional.",
     "image": "profilepic.jpg",
     "bio": "description",
     "contactmessage": "contacts here",
@@ -14,7 +14,7 @@
       "state": "WA",
       "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.justin-chow.com",
     "resumedownload": "JustinChow_resume_2021.pdf",
     "social": [
       {

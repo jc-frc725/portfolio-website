@@ -55,7 +55,7 @@
 			active_link.parent().addClass("current");
 
 		},
-		offset: '35%'
+		offset: '25%'
 
 	});
 
