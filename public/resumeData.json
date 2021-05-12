@@ -55,13 +55,13 @@
         "company": "University of Washington (C21)",
         "title": "Project Management Intern",
         "years": "2020",
-        "description": "Assisted with brainstorming and drafting a solution to address low enrollment numbers for UW’s Early Fall Start program."
+        "description": "Collaborated with 40+ interns and successfully increased student enrollment for UW's Early Fall Start (EFS) program. Spoke to incoming freshmen students 1:1 to answer questions about EFS. Promoted to team coordinator, communicating with team for check-ins, pain points, and progress reports. Regularly contacted supervisor regarding team and outreach statistics, concerns, and suggestions for improving freshmen outreach experiences."
       },
       {
         "company": "Albertsons Companies",
         "title": "Pharmacy Technician",
         "years": "2017 - 2020",
-        "description": "Assisted patients and pharmacists with distribution of prescriptions, insurance policies, pharmacy resources."
+        "description": "Dispensed prescriptions in a patient-facing environment. Helped resolve issues brought by patients about insurance, medication ordering, and pharmacy policies. Resolved escalating/difficult patient situations according to pharmacy standards and prevented disruptions to service."
       }
     ]
   },
@@ -70,25 +70,25 @@
       {
         "title": "BlutoBot",
         "category": "A web-scraping Discord bot for fetching stock prices.",
-        "image": "project-placeholder.png",
+        "image": "discordpy.png",
         "url": "https://github.com/jc-frc725/blutobot"
       },
       {
         "title": "Pep-talker",
         "category": "Text-to-speech web application backed by RESTful API and IBM Cloud.",
-        "image": "project-placeholder.png",
+        "image": "peptalk_demo.gif",
         "url": "https://github.com/jc-frc725/pep-talker"
       },
       {
         "title": "System Design Rework",
         "category": "Redesigned the back end for a property rental website.",
-        "image": "project-placeholder.png",
+        "image": "sdc.png",
         "url": "https://github.com/jc-frc725/tripsters_bookings"
       },
       {
         "title": "Understock.com",
         "category": "Built a React-based front end component for a furniture retailer.",
-        "image": "project-placeholder.png",
+        "image": "fec.png",
         "url": "https://github.com/jc-frc725/understock_carousel"
       }
     ]
