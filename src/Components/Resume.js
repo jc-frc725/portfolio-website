@@ -20,33 +20,46 @@ class Resume extends Component {
 
     return (
       <section id="resume">
+        <div className="row skill">
 
-      <div className="row education">
-         <div className="three columns header-col">
-            <h1><span>Education</span></h1>
-         </div>
+          <div className="three columns header-col">
+            <h1><span>Skills</span></h1>
+          </div>
 
-         <div className="nine columns main-col">
-            <div className="row item">
-               <div className="twelve columns">
-                 {education}
-               </div>
-            </div>
-         </div>
-      </div>
-
-
-      <div className="row work">
-
-         <div className="three columns header-col">
-            <h1><span>Work</span></h1>
-         </div>
-
-         <div className="nine columns main-col">
-          {work}
+          <div className="nine columns main-col">
+            <p><span id="skills-text">Front End: </span>JavaScript (ES6), HTML, CSS, React, jQuery, Webpack, Babel</p>
+            <p><span id="skills-text">Back End: </span>Node.js, Express, MongoDB, MySQL, PostgreSQL, SQLite</p>
+            <p><span id="skills-text">Misc: </span>Java (prior experience), AWS (EC2), Jest, Testing Library, Git/GitHub, WSL, Discord.py</p>
+          </div>
         </div>
-    </div>
-   </section>
+      
+
+        <div className="row education">
+          <div className="three columns header-col">
+              <h1><span>Education</span></h1>
+          </div>
+
+          <div className="nine columns main-col">
+              <div className="row item">
+                <div className="twelve columns">
+                  {education}
+                </div>
+              </div>
+          </div>
+        </div>
+
+
+        <div className="row work">
+
+          <div className="three columns header-col">
+              <h1><span>Work</span></h1>
+          </div>
+
+          <div className="nine columns main-col">
+            {work}
+          </div>
+        </div>
+      </section>
     );
   }
 }
