@@ -7,5 +7,5 @@ Based on a ReactJS template found here: https://github.com/tbakerx/react-resume-
 ---
 
 ## Changelog
-- 5/7/2021: v1.0!
+- 5/11/2021: v1.0!
 - 5/4/2021: initialized from template
