@@ -20,7 +20,7 @@ class Resume extends Component {
 
     return (
       <section id="resume">
-        <div className="row skill">
+        <div className="row skills">
 
           <div className="three columns header-col">
             <h1><span>Skills</span></h1>
@@ -29,7 +29,7 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <p><span id="skills-text">Front End: </span>JavaScript (ES6), HTML, CSS, React, jQuery, Webpack, Babel</p>
             <p><span id="skills-text">Back End: </span>Node.js, Express, MongoDB, MySQL, PostgreSQL, SQLite</p>
-            <p><span id="skills-text">Misc: </span>Java (prior experience), AWS (EC2), Jest, Testing Library, Git/GitHub, WSL, Discord.py</p>
+            <p><span id="skills-text">Misc: </span>Java (prior experience), AWS (EC2), NGINX, Jest, Testing Library, Git/GitHub, WSL, Discord.py</p>
           </div>
         </div>
       
