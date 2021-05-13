@@ -58,6 +58,9 @@ p {
   #about {
     padding-left: 0px;
   }
+  .profile-pic {
+    visibility: hidden;
+  }
 }
 
 .nav-divider {
