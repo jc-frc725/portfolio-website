@@ -59,6 +59,10 @@ p {
   header .banner {
     margin: 0;
   }
+  .portfolio-item .item-wrap .overlay {
+    opacity: 1;
+    filter:alpha(opacity=100);
+  }
 }
 
 .nav-divider {
