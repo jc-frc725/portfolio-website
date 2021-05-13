@@ -536,11 +536,6 @@ ul#nav li.current a { background-color: rgb(24, 172, 115);}
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
 }
-.portfolio-item:hover .link-icon {
-   opacity: 1;
-	-moz-opacity: 1;
-	filter:alpha(opacity=100);
-}
 
 /* popup modal */
 .popup-modal {

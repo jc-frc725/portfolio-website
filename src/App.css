@@ -4,11 +4,6 @@
   margin-left: 50px;
 }
 
-/*
-#home, #about, #portfolio, #resume, #contact {
-  margin-left: 50px;
-}
-*/
 p {
   font-size: medium;
 }
@@ -49,6 +44,25 @@ p {
   height: 170px;
   border-radius: 90%;
   box-shadow: 0px 4px 5px rgb(2, 70, 44);
+}
+
+@media screen and (max-width: 900px) {
+  .App {
+    margin-left: 0px;
+  }
+  #about {
+    padding-left: 0px;
+  }
+  .profile-pic, #profile-container {
+    display: none;
+  }
+  header .banner {
+    margin: 0;
+  }
+  .portfolio-item .item-wrap .overlay {
+    opacity: 1;
+    filter:alpha(opacity=100);
+  }
 }
 
 .nav-divider {
