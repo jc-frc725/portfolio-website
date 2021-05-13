@@ -51,6 +51,15 @@ p {
   box-shadow: 0px 4px 5px rgb(2, 70, 44);
 }
 
+@media screen and (max-width: 767px) {
+  .App {
+    margin-left: 0px;
+  }
+  #about {
+    padding-left: 0px;
+  }
+}
+
 .nav-divider {
   height: 1px;
   margin: 0;
